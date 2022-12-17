@@ -1,4 +1,6 @@
 # PLOTLY_Stock_Picker
+This is a stock picker using plotly.
+
 
 <h1> Details </h1>
 This is a stock picker using plotly.<br>
