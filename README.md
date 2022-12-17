@@ -1,8 +1,7 @@
 # PLOTLY_Stock_Picker
 This is a stock picker using plotly.
 
-
-<h1> Details </h1>
+# Details 
 This is a stock picker using plotly.<br>
 Pick a stock and a range of date to generate a graph.
 
